@@ -1,3 +1,5 @@
+import java.util.HashMap;
+
 public class Combination_Sum_39 {
 
     class Solution {
